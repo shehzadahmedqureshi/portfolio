@@ -2,7 +2,7 @@
 Portfolio of data science projects.
 Presented in the form of iPython Notebooks.
 
-Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
+Note: Data used in the projects is for demonstration purposes only.
 
 ## Machine Learning Projects:
 - [Support Vector Machines: Predict a Pulsar Star](https://github.com/ubaidullahbutt/portfolio/blob/master/pulsar_star/support_vector_machines.ipynb): Our main goal is to predict pulsar candidates for facilitate rapid analysis using SVM.
