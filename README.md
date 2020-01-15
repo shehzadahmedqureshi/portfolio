@@ -10,7 +10,7 @@ Note: Data used in the projects is for demonstration purposes only.
 - [Predicting Black Friday Purchase Prices](https://github.com/ubaidullahbutt/portfolio/blob/master/black_friday/black_friday.ipynb): The challenge is to predict purchase prices of different products purchased by customers based on historical purchase data.
 - [Market Bucket Optimization](https://github.com/ubaidullahbutt/portfolio/blob/master/association_rule_learning/apriori_groceries.ipynb): The challenge is to create association rules using Apriori algorithm to optimize bucket of a grocery store.
 - [Unsupervised Learning: Customer Segments using K-means](https://github.com/ubaidullahbutt/portfolio/blob/master/kmeans_clustering/customer_segments_kmeans.ipynb): Creating customer segments using K-means clustering.
-- [Ireland Hostel Recommender System](https://github.com/shehzadahmedqureshi/portfolio/blob/master/Hostel_Recommender_System.ipynb): Created a content based hostel recommender system which recommends hostels in a city if a city's hostel is being viewed.
-- [Ireland Hostel Recommender System Based on Hostel Description](https://github.com/shehzadahmedqureshi/portfolio/blob/master/hostel_recommender_system_based_on_hostel_description.ipynb): I used the same Ireland hostel dataset, but this time making recommendations based on description.
+- [Content Based Recommender System For Hostels in Ireland](https://github.com/shehzadahmedqureshi/portfolio/blob/master/Hostel_Recommender_System.ipynb): I created a content-based recommender system for hostels in Ireland that recommends similar hostels.
+- [Content Based Recommender System For Hostels in Ireland (Based on Hostel's Description)](https://github.com/shehzadahmedqureshi/portfolio/blob/master/hostel_recommender_system_based_on_hostel_description.ipynb): This Recommender System Uses the description of a hostel to recommend similar hotels.
 
 _Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
