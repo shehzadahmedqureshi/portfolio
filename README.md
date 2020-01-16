@@ -11,6 +11,6 @@ Note: Data used in the projects is for demonstration purposes only.
 - [Market Bucket Optimization](https://github.com/ubaidullahbutt/portfolio/blob/master/association_rule_learning/apriori_groceries.ipynb): The challenge is to create association rules using Apriori algorithm to optimize bucket of a grocery store.
 - [Unsupervised Learning: Customer Segments using K-means](https://github.com/ubaidullahbutt/portfolio/blob/master/kmeans_clustering/customer_segments_kmeans.ipynb): Creating customer segments using K-means clustering.
 - [Content Based Recommender System For Hostels in Ireland](https://github.com/shehzadahmedqureshi/portfolio/blob/master/Hostel_Recommender_System.ipynb): I created a content-based recommender system for hostels in Ireland that recommends similar hostels.
-- [Content Based Recommender System For Hostels in Ireland (Based on Hostel's Description)](https://github.com/shehzadahmedqureshi/portfolio/blob/master/hostel_recommender_system_based_on_hostel_description.ipynb): This Recommender System Uses the description of a hostel to recommend similar hostels.
+- [Content Based Recommender System For Hostels in Ireland (Based on Hostel's Name)](https://github.com/shehzadahmedqureshi/portfolio/blob/master/hostel_recommender_system_based_on_hostel_name.ipynb): This Recommender System Uses the name of a hostel to recommend similar hostels.
 
 _Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
