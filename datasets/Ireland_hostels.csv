@@ -1,0 +1,121 @@
+hostel.id,summary.score,rating.band,Value.for.money,Security,Location,Staff,Atmosphere,Cleanliness,Facilities,Board.Games,Dvds,Foosball,Games.Room,PlayStation,Pool.Table,Wifi,Name,Distance,City,Price
+1,9.1,Superb,9,9.6,9.1,9.1,8.6,9.3,8.9,1,0,0,0,0,0,1,Jacobs Inn,0.6km from city centre,Dublin,19.05
+2,8.7,Fabulous,8.3,8.9,9.7,8.9,8.2,8.2,8.3,1,0,1,1,1,1,1,Abbey Court,0.4km from city centre,Dublin,12.49
+3,7.9,Very Good,7.6,8.2,8.7,8.3,7.8,7.6,7.4,1,0,0,1,1,1,0,Isaacs Hostel,0.5km from city centre,Dublin,12
+4,8,Fabulous,7.7,8.6,9,8.5,7.3,7.3,7.3,1,0,0,0,0,0,0,Abrahams Hostel,0.4km from city centre,Dublin,11
+5,7.8,Very Good,7.2,8.1,9.3,8.1,7.3,7.5,7.2,1,0,0,1,1,1,0,Kinlay House Dublin,1km from city centre,Dublin,12
+6,8.5,Fabulous,8.3,9,9.8,8.6,7.9,8,8.1,1,0,0,0,0,0,0,Abigails Hostel,0.5km from city centre,Dublin,13
+7,8.7,Fabulous,8.5,9,9.7,9.3,8.2,8.1,8.3,0,0,0,0,0,0,0,Ashfield Hostel,0.6km from city centre,Dublin,13
+8,8.3,Fabulous,7.8,8.9,8.5,8.6,8.2,7.8,8.1,0,0,1,1,0,1,1,Generator Dublin,1.2km from city centre,Dublin,13.3
+9,8.9,Fabulous,8.7,9.2,9.6,8.8,8.5,9.2,8.6,1,0,0,0,0,0,1,Sky Backpackers,0.4km from city centre,Dublin,16
+10,8.7,Fabulous,8.6,9.1,8,9.3,8.2,9,8.7,1,0,1,1,0,1,1,Gardiner House,0.8km from city centre,Dublin,18
+11,8.4,Fabulous,8.1,8.8,9.7,8.7,7.8,7.9,7.9,1,0,0,0,0,0,1,The Times Hostel - College Street,0.6km from city centre,Dublin,12
+12,8.9,Fabulous,8.7,9.1,9.2,9.2,8.4,9.2,8.8,1,0,0,0,0,0,1,The Times Hostel - Camden Place,1.7km from city centre,Dublin,12
+13,7.7,Very Good,7.3,8.3,8.3,8.4,7.4,7.1,7.3,1,0,1,0,0,0,1,The Dublin Central Hostel,0.7km from city centre,Dublin,21
+14,8.5,Fabulous,8.4,8.7,8.9,9.1,8.1,8.3,8.2,1,0,0,1,0,1,1,Four Courts Hostel,1.1km from city centre,Dublin,15
+15,7.9,Very Good,7.8,8.2,9.4,8.3,7.7,6.8,7.3,0,0,0,0,0,0,0,Oliver St. John Gogarty Hostel,0.6km from city centre,Dublin,15
+16,6.7,Good,6.3,7.2,8.4,7.9,5.9,6.3,5.1,0,0,0,0,0,0,0,Paddy's Palace Dublin,0.5km from city centre,Dublin,15
+17,8.4,Fabulous,8.1,8.9,7.9,9,8.2,8.6,8,1,0,0,0,0,0,1,Garden Lane Backpackers,1.5km from city centre,Dublin,21
+18,9,Superb,8.8,8.8,8.7,9.5,9,9.5,8.7,0,0,0,0,0,0,0,Harvey's Guesthouse,0.8km from city centre,Dublin,40
+19,6.2,Good,5.9,6.3,9,6.9,5.2,4.8,4.9,0,0,0,0,0,0,0,Apache Hostel,0.8km from city centre,Dublin,16.38
+20,8.6,Fabulous,9,8.8,9.5,8.8,8.8,8.3,7.5,0,0,0,0,0,0,0,St Anns Bed and Breakfast,11.6km from city centre,Dublin,31
+21,9.7,Superb,9.3,10,8.5,10,10,10,9.9,1,0,0,0,0,0,0,Marguerite House,1.7km from city centre,Dublin,47
+22,9.9,Superb,10,10,10,10,10,9,10,0,0,0,0,0,0,0,The Oliver St John Gogarty Penthouse Apartments,0.6km from city centre,Dublin,21.5
+23,9.8,Superb,8.5,10,10,10,10,10,10,0,0,0,0,0,0,1,Temple Bar Inn,0.6km from city centre,Dublin,49.5
+24,7.8,Very Good,7.5,7.3,8.3,8.5,7.5,8,7.3,0,0,0,0,0,0,0,My Place Dublin,0.4km from city centre,Dublin,21
+25,7.3,Very Good,7,6.7,8.3,7.7,6.3,8,7,1,0,0,0,0,0,0,Harrington House,2.1km from city centre,Dublin,17.5
+26,9.5,Superb,8.8,10,10,9.6,9.2,10,8.8,0,0,0,0,0,0,0,Celtic Lodge Guesthouse – Restaurant & Bar,0.3km from city centre,Dublin,27
+27,7.6,Very Good,8,8,8,8,7,8,6,1,0,0,0,0,0,1,Marilyn Mansion,4.1km from city centre,Dublin,28.75
+28,8.3,Fabulous,8.7,8,8,8.7,7.3,9,8.3,0,0,0,0,0,0,0,Tipperary House,2km from city centre,Dublin,24
+29,8.4,Fabulous,8.3,9.1,8.8,8.9,7.6,8.4,7.7,0,0,0,0,0,0,0,Trinity College Dublin,0.7km from city centre,Dublin,34
+30,7,Very Good,6.2,7.4,8.4,7.6,6.4,6.7,5.9,0,0,0,0,0,0,0,Backpackers Citihostel,0.4km from city centre,Dublin,12
+31,9,Superb,9.3,10,10,8.7,8,8,8.7,0,0,0,0,0,0,0,Abbey Court Apartments,0.4km from city centre,Dublin,60
+32,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hazelbrook House,0.4km from city centre,Dublin,43.52
+33,7.8,Very Good,7.3,8.7,8.7,6.7,7.3,8.7,7.3,0,0,0,0,0,0,1,Amberley House,0.4km from city centre,Dublin,34
+34,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Jackson Court Hotel,1.9km from city centre,Dublin,44.5
+35,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Destiny Student - The Tannery,1.9km from city centre,Dublin,38.5
+36,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,0,1,ABC House B&B,2.7km from city centre,Dublin,26.67
+37,0,Not Rated,0,0,0,0,0,0,0,0,0,0,1,0,1,1,Destiny Student - New Mill,1.9km from city centre,Dublin,40.25
+38,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Destiny Student - The Point,2.1km from city centre,Dublin,35.75
+39,5.1,Not Rated,2,7,8,8,3,5,3,0,0,0,0,0,0,0,Barry's Hotel,0.5km from city centre,Dublin,26.34
+40,6.6,Good,4,10,4,6,8,8,6,0,0,0,0,0,0,0,Parkway Guesthouse,0.6km from city centre,Dublin,25
+41,9.7,Superb,10,9,10,10,10,10,9,0,0,0,0,0,0,0,O'Donoghue's Guesthouse,1.4km from city centre,Dublin,55
+42,9.9,Superb,10,10,9,10,10,10,10,0,0,0,0,0,0,0,Dergvale Hotel,0.6km from city centre,Dublin,34.12
+43,9.3,Superb,8,9,9,10,10,10,9,0,0,0,0,0,0,0,Lansdowne Hotel,2.4km from city centre,Dublin,63
+44,0,Not Rated,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Egans House,1.8km from city centre,Dublin,17.85
+45,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Clifden House,0.6km from city centre,Dublin,174.75
+46,0,Not Rated,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Brookville House,9.5km from city centre,Dublin,83.75
+47,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Anchor Guesthouse,0.4km from city centre,Dublin,30.56
+48,9,Superb,8.8,9.2,9.8,9.4,8.7,8.5,8.5,1,0,0,0,0,0,1,Snoozles Quay Street Hostel,0.4km from city centre,Galway,15
+49,9.5,Superb,9.4,9.6,9.8,9.7,9.3,9.4,9.4,1,0,0,0,0,1,1,Kinlay Eyre Square Hostel,0.2km from city centre,Galway,19
+50,9,Superb,8.7,9.2,9.4,9.2,8.6,8.9,8.7,1,0,0,0,0,0,1,Sleepzone,0.5km from city centre,Galway,9.59
+51,9.5,Superb,9.3,9.7,9.9,9.6,9.5,9.5,9.2,1,0,0,0,0,0,1,Galway City Hostel & Bar,0.3km from city centre,Galway,19
+52,8.8,Fabulous,8.6,9,9.5,9.4,8.6,8.2,8.3,1,0,0,0,0,0,1,Woodquay Hostel Galway City,0.5km from city centre,Galway,13
+53,8.7,Fabulous,8.5,9.1,9.7,8.4,8.4,8.1,8.5,1,0,1,1,0,1,1,Savoy Hostel,0.3km from city centre,Galway,15
+54,8.6,Fabulous,8.3,9,9.2,9.3,8.5,7.9,8.1,1,0,0,1,1,1,1,Snoozles Forster Street Hostel,0.4km from city centre,Galway,17
+55,9.5,Superb,9.4,9.7,8.8,9.8,9.6,9.7,9.6,0,0,0,0,0,0,1,The Nest Boutique Hostel,1.9km from city centre,Galway,20
+56,7,Very Good,7.1,6.6,9,7.8,6.7,5.5,6.3,0,0,0,0,0,0,0,Salmon Weir Hostel,0.6km from city centre,Galway,12
+57,9.2,Superb,9.1,9,9.2,9.8,9.3,9.3,8.9,0,0,0,0,0,0,0,Mountain View Hostel,40.1km from city centre,Galway,20
+58,7.4,Very Good,6.2,7.7,9.1,7.9,6.4,8,6.5,0,0,0,0,0,0,0,Celtic Tourist Hostel,0.1km from city centre,Galway,17.04
+59,9.7,Superb,10,8,10,10,10,10,10,0,0,0,0,0,0,0,Lynfield Guesthouse,0.7km from city centre,Galway,39.5
+60,9.9,Superb,10,9.5,10,10,10,9.5,10,0,0,0,0,0,0,0,Oughterard Holiday Hostel & Angling Center,24.9km from city centre,Galway,19.8
+61,9.3,Superb,8,10,10,9,9,10,9,0,0,0,0,0,0,0,Westway Guest House,2.2km from city centre,Galway,30
+62,8,Fabulous,7.4,8.8,7.9,9.3,7.3,7.1,7.9,0,0,0,0,0,1,1,Corrib Village,2.2km from city centre,Galway,26.5
+63,9.7,Superb,8,10,10,10,10,10,10,0,0,0,0,0,0,0,The Western Hotel,0.5km from city centre,Galway,21.25
+64,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,0,1,The Western Citypoint Apartments,0.4km from city centre,Galway,22.5
+65,9.4,Superb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sea Mist Bed and Breakfast,3km from city centre,Galway,35
+66,0,Not Rated,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Slieve Aughty Centre,41.3km from city centre,Galway,30
+67,9,Superb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,The Stones Boutique,69km from city centre,Galway,44.5
+68,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,The Forge,0.7km from city centre,Galway,25
+69,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Corrib Village Apartments,2.1km from city centre,Galway,24
+70,8.3,Fabulous,8,8.5,9.1,8.9,8,8.1,7.7,1,0,0,0,0,1,1,Bru Bar & Hostel,0.5km from city centre,Cork,18.33
+71,8.3,Fabulous,8.2,8.3,8.9,8.9,7.8,8.3,8.1,0,0,0,0,0,0,1,Kinlay House Cork,0.5km from city centre,Cork,16
+72,7.8,Very Good,7.6,8.1,8.4,8.6,7.2,7.2,7.4,1,0,0,0,0,0,0,Sheilas Cork Hostel,0.5km from city centre,Cork,16
+73,3.9,Not Rated,4,4,5,3,3,5,3,1,0,0,0,0,1,0,Oscars Hostel,1.2km from city centre,Cork,20
+74,5.3,Not Rated,3,6,9,5,4,6,4,0,0,0,0,0,0,1,Ashley Hotel,0.3km from city centre,Cork,30
+75,9.6,Superb,10,9,9,10,10,10,9,0,0,0,0,0,0,1,Garnish House,1.2km from city centre,Cork,25.5
+76,8.9,Fabulous,8.8,9,9.7,9.4,8.5,8.5,8.3,1,0,0,1,0,0,0,Neptunes Town Hostel,1.1km from city centre,Killarney,14
+77,7.5,Very Good,7.6,7.5,9.1,7.7,7,6.6,6.9,1,0,0,0,0,0,0,Killarney Railway Hostel,1.5km from city centre,Killarney,10
+78,7.4,Very Good,7.2,7.7,9.5,8.5,7.1,6.1,5.6,1,0,0,0,0,0,1,The Shire Accommodation,1.3km from city centre,Killarney,13
+79,8.3,Fabulous,8.3,8.3,9.4,8.6,8.1,7.7,7.5,1,0,0,0,0,0,1,Paddy's Palace Killarney,1km from city centre,Killarney,10
+80,9.7,Superb,9.7,9.6,9.8,9.8,9.7,9.7,9.7,1,0,0,0,0,0,1,The Black Sheep Hostel,0.9km from city centre,Killarney,23.5
+81,9.2,Superb,9.2,9.5,9,9.6,9.3,9,8.6,1,0,0,1,0,0,1,Killarney International Youth Hostel (An Oige),4.9km from city centre,Killarney,12.75
+82,8.1,Fabulous,8.8,8,7.2,8.4,7.6,8,8.8,0,0,0,0,0,0,1,3 Lakes Hostel,2.5km from city centre,Killarney,14
+83,9.6,Superb,10,10,10,10,9,9,9,1,0,0,0,0,0,0,Killarney View House,0.8km from city centre,Killarney,30
+84,9.4,Superb,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Eviston House,1.1km from city centre,Killarney,32.5
+85,10,Superb,10,10,10,10,10,10,10,1,0,0,0,0,0,1,Inveraray Farm,8.2km from city centre,Killarney,32.5
+86,10,Superb,10,10,10,10,10,10,10,0,0,0,0,0,0,0,The Gardens,1.1km from city centre,Killarney,40
+87,10,Superb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fuchsia House,0.7km from city centre,Killarney,39.5
+88,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Killarney Oaks Hotel,1.7km from city centre,Killarney,44.67
+89,9.6,Superb,9.5,9.3,9.9,9.7,9.5,9.7,9.3,1,0,0,0,0,0,1,The Hideout Hostel,0.1km from city centre,Dingle,17
+90,8.7,Fabulous,9,7.9,9.5,9.1,8.7,8.3,8.5,0,0,0,0,0,0,0,The Grapevine Hostel,0.1km from city centre,Dingle,18.82
+91,8.2,Fabulous,8.5,8.6,9.1,8.3,7.5,7.9,7.3,1,0,0,0,0,0,0,Lovett's Hostel,0.4km from city centre,Dingle,16
+92,8.9,Fabulous,8.8,9.5,8.7,9.5,7.8,9.6,8.2,0,0,0,0,0,0,0,Hillgrove,0.5km from city centre,Dingle,13.2
+93,9.2,Superb,9,9.2,9.8,10,9.6,8.6,8,0,0,0,0,0,0,1,The SeaFront Inn,19.5km from city centre,Dingle,18
+94,10,Superb,10,10,10,10,10,10,10,0,0,0,1,0,1,1,Muiris Dan's Pub & Accommodation,0.2km from city centre,Dingle,17
+95,5.7,Not Rated,6,6,6,8,6,4,4,0,0,0,0,0,1,0,Paddy's Palace - Dingle Peninsula,15km from city centre,Dingle,10
+96,9,Superb,9.3,8.7,8.7,9.3,9.3,8.7,9.3,1,0,0,1,0,1,0,Dingle Gate Hostel - Dingle Peninsula,17.8km from city centre,Dingle,14
+97,9.4,Superb,10,8,10,10,10,10,8,0,0,0,0,0,0,0,Dingle Harbour Lodge,0.8km from city centre,Dingle,33
+98,10,Superb,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Ardrinane House,14.5km from city centre,Dingle,26.25
+99,0,Not Rated,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Dingle Harbour Nights,0.8km from city centre,Dingle,42.5
+100,8.7,Fabulous,8.5,8.9,9.5,9,8.3,8.3,8.3,1,0,0,0,0,0,0,Glendalough Youth Hostel (HI),18.4km from city centre,Wicklow,17
+101,8.7,Fabulous,8.8,9,9,8.5,8.3,9,8.5,0,0,1,0,0,1,0,Knockree Hostel (Hostelling International),24.7km from city centre,Wicklow,18
+102,9.7,Superb,9.8,9.6,9.8,10,9.8,10,9.2,1,0,0,0,0,0,1,Lus Mor Wicklow Way,17.6km from city centre,Wicklow,17
+103,9.3,Superb,9,10,10,10,10,8.5,7.5,0,0,0,0,0,0,0,Glenmalure Hostel (Hostelling International),24.6km from city centre,Wicklow,16
+104,10,Superb,10,10,10,10,10,10,10,0,0,0,0,0,0,0,The elbowroom escape,35.3km from city centre,Wicklow,44.75
+105,9.1,Superb,9.1,9.5,9.4,8.9,8.6,9,9,0,0,0,0,0,0,0,The Beehive,0.4km from city centre,Sligo,20
+106,9.1,Superb,8.4,9.2,9.6,9.6,9.6,9.2,8,0,0,0,0,0,0,0,Beach Bar & Aughris House,17.8km from city centre,Sligo,24
+107,8.3,Fabulous,8.3,8.1,9.1,8.8,8.1,8,7.6,1,0,0,0,0,0,1,"Strandhill Lodge, Hostel & Surf School",8.1km from city centre,Sligo,17.5
+108,6.4,Good,5.3,6.7,8,6.7,6.7,6,5.3,1,0,0,0,0,0,1,Harbour House,1.3km from city centre,Sligo,25
+109,9.6,Superb,10,10,9.3,10,8,10,10,1,0,0,0,0,0,1,The Benwiskin Centre,17.1km from city centre,Sligo,16
+110,8.4,Fabulous,8.6,8.5,9.3,8.7,8,7.8,7.9,1,0,0,1,0,1,1,Macgabhainns Backpackers Kilkenny,0.4km from city centre,Kilkenny,15
+111,9.1,Superb,9.2,8.9,9.7,9.4,8.9,8.9,8.6,0,0,0,0,0,0,0,Kilkenny Tourist Hostel,0.2km from city centre,Kilkenny,15
+112,9.1,Superb,9.3,9.1,9.6,9.6,8.6,9.3,8.4,0,0,0,0,0,0,1,Kilkenny City Hostel,0.3km from city centre,Kilkenny,17
+113,9.5,Superb,9.6,9.1,9.8,9.6,9.6,9.6,9.5,1,0,0,0,0,0,1,Aille River Holiday Hostel,0.1km from city centre,Doolin,18
+114,9.2,Superb,9.4,9.3,9.2,9.5,9.3,9.3,8.9,1,0,0,0,0,0,0,Rainbow Hostel Doolin,0.7km from city centre,Doolin,21
+115,9.7,Superb,9.7,9.5,9.8,9.8,9.7,9.6,9.7,1,0,0,0,0,0,1,Sandrock Holiday Hostel,92.7km from city centre,Donegal,13.5
+116,10,Superb,10,10,10,10,10,10,9.7,0,0,0,0,0,0,0,Errigal Hostel (Hostelling International),42.3km from city centre,Donegal,18
+117,9.5,Superb,9.7,9.4,9.3,9.7,9.5,9.7,9.4,0,0,0,0,0,0,0,Donegal Town Independent hostel,0.9km from city centre,Donegal,17
+118,9.6,Superb,9.4,9.7,9.4,10,9.4,9.7,9.4,0,0,0,0,0,0,1,Aras Ghleann Cholm Cille,42.4km from city centre,Donegal,10
+119,8.6,Fabulous,8.5,10,8,8.5,8.5,9.5,7,0,0,0,0,0,0,1,The Bluestack Centre,6.7km from city centre,Donegal,12.5
+120,9.1,Superb,9,8,10,10,9,10,8,0,0,0,0,0,0,0,Atlantic Guest House,0.7km from city centre,Donegal,23.75
