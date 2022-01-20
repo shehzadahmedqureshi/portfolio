@@ -15,4 +15,4 @@ Note: Data used in the projects is for demonstration purposes only.
 - [Unsupervised Learning: Customer Segments using K-means](https://github.com/shehzadahmedqureshi/portfolio/blob/master/kmeans_clustering/customer_segments_kmeans.ipynb): Creating customer segments using K-means clustering.
 
 
-_Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
+_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy
