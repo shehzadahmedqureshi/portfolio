@@ -1,6 +1,6 @@
 # Data Science Portfolio
 Portfolio of data science projects.
-Presented in the form of iPython Notebooks.
+Presented in the form of Python Notebooks.
 
 Note: Data used in the projects is for demonstration purposes only.
 
