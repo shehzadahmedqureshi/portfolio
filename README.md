@@ -13,6 +13,9 @@ Note: Data used in the projects is for demonstration purposes only.
 - [Predicting Black Friday Purchase Prices](https://github.com/shehzadahmedqureshi/portfolio/blob/master/black_friday/black_friday.ipynb): The challenge is to predict purchase prices of different products purchased by customers based on historical purchase data.
 - [Market Bucket Optimization](https://github.com/shehzadahmedqureshi/portfolio/blob/master/association_rule_learning/apriori_groceries.ipynb): The challenge is to create association rules using Apriori algorithm to optimize bucket of a grocery store.
 - [Unsupervised Learning: Customer Segments using K-means](https://github.com/shehzadahmedqureshi/portfolio/blob/master/kmeans_clustering/customer_segments_kmeans.ipynb): Creating customer segments using K-means clustering.
+- [Nicholas Jose Website](http://www.nicholasjose.com.au/): The goal was to develop a website in WordPress but the content should load without page refresh using AJAX.
+Technologies: 
+HTML, CSS, jQuery, Ajax, PHP, WordPress
 
 
 _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy
