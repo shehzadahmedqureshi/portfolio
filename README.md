@@ -1,6 +1,6 @@
 # Portfolio
 
-Note: Data used in the projects is for demonstration purposes only.
+Note: Data used in these projects is for demonstration purposes only.
 
 ## Machine Learning Projects:
 - [Explainable Hostel Recommender System](https://github.com/shehzadahmedqureshi/portfolio/blob/master/Explainable_Hostel_Recommender_System.ipynb): This Recommender System recommends similar hostels with an explanation and as a result, such recommendations become more effective and more persuasive.
