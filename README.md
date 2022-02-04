@@ -2,6 +2,15 @@
 
 Note: Data used in these projects is for demonstration purposes only.
 
+## Web Projects:
+- [Nicholas Jose Website](http://www.nicholasjose.com.au/): The goal was to develop a website in WordPress but the content should load without page refresh using AJAX.
+Tools: HTML, CSS, jQuery, Ajax, PHP, WordPress
+- [Mighty Host Website](http://mightyhost.com.au/): I did PSD to HTML and CSS.
+- [Fish Recruiting Website](http://fishrecruiting.com.au/): I did PSD to HTML CSS and applied Jquery to the design.
+- [Café Galilee Website](http://cafe-galilee.com/): I did PSD to HTML and CSS in this project.
+- [Awesome Andre Website](http://awesomeandre.com/): II did PSD to HTML CSS design and then integrated it into Adobe Business Catalyst CMS.
+- [Bike Sharing Website] : Road congestion, traffic, air pollution, increased greenhouse gas emissions combined with the cost of maintenance of cars has provoked the need for alternative modes of transportation, one of them being bikes. Best utilized in bike-sharing schemes, these are environmentally inclined, cost-optimized mode of transportation which combines active transportation with public transit. In bike-sharing schemes, owning a bike is not necessary as these schemes allow the users to rent, pay for their used duration and return the bike to the nearest collection center after the completion of their trip. The basis of this bike-sharing schemes are to provide tourists with a resident-like experience and students quick access to schools and vital resources of proximity to them, whilst providing an efficient alternative mode of transportation for inhabitants. Implementing these schemes and keeping a tab of all the transactions and activities such as point of order and returns, missing bikes, bike repairs, etc. is an arduous task. This project focuses on providing a system that enables the users to utilize the service with ease with the flexibility to operators for monitoring all required activities. The system would use a database containing information on the bikes, drop-off locations, and the customers. It is built to be user-friendly and flexible along with maximizing the efficiency for the operators and managers while easing customer stress.
+
 ## Data Science Projects:
 - [Explainable Hostel Recommender System](https://github.com/shehzadahmedqureshi/portfolio/blob/master/Explainable_Hostel_Recommender_System.ipynb): This Recommender System recommends similar hostels with an explanation and as a result, such recommendations become more effective and more persuasive.
 - [Content Based Recommender System For Hostels in Ireland (Based on Hostel's Attributes)](https://github.com/shehzadahmedqureshi/portfolio/blob/master/Hostel_Recommender_System.ipynb): I created a content based recommender system for hostels in Ireland that recommends similar hostels by matching the contextual features and multi-rating data of other hostels with the anchor hostel.
@@ -19,15 +28,6 @@ Note: Data used in these projects is for demonstration purposes only.
 - [Subreddit Post Sentiment Classification] : Sentiment analysis in contextual problems is basically identifying the text and classifying it into social sentiments in order to get subjective information. Different brands use sentiment analysis commonly to get an overview of wider public opinions on different topics from their social media pages. Moreover, sentiment analysis also known as emotion Artificial Intelligence or opinion mining is a very popular tool being used by many E-commerce brands for understanding a large number of reviews of their products as it helps in quickly get an overview of public opinion without going to read all the reviews. In this project, a dataset of Reddit is provided. Reddit provides deep discussion on different topics that is not very common in other social networks. Reddit has threads that demonstrate the topics of discussion. A thread may contain different posts from different users. The task is to correctly classify these posts for sentiment analysis.
 
 _Tools Used in Data Science Projects: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy
-
-## Web Projects:
-- [Nicholas Jose Website](http://www.nicholasjose.com.au/): The goal was to develop a website in WordPress but the content should load without page refresh using AJAX.
-Tools: HTML, CSS, jQuery, Ajax, PHP, WordPress
-- [Mighty Host Website](http://mightyhost.com.au/): I did PSD to HTML and CSS.
-- [Fish Recruiting Website](http://fishrecruiting.com.au/): I did PSD to HTML CSS and applied Jquery to the design.
-- [Café Galilee Website](http://cafe-galilee.com/): I did PSD to HTML and CSS in this project.
-- [Awesome Andre Website](http://awesomeandre.com/): II did PSD to HTML CSS design and then integrated it into Adobe Business Catalyst CMS.
-- [Bike Sharing Website] : Road congestion, traffic, air pollution, increased greenhouse gas emissions combined with the cost of maintenance of cars has provoked the need for alternative modes of transportation, one of them being bikes. Best utilized in bike-sharing schemes, these are environmentally inclined, cost-optimized mode of transportation which combines active transportation with public transit. In bike-sharing schemes, owning a bike is not necessary as these schemes allow the users to rent, pay for their used duration and return the bike to the nearest collection center after the completion of their trip. The basis of this bike-sharing schemes are to provide tourists with a resident-like experience and students quick access to schools and vital resources of proximity to them, whilst providing an efficient alternative mode of transportation for inhabitants. Implementing these schemes and keeping a tab of all the transactions and activities such as point of order and returns, missing bikes, bike repairs, etc. is an arduous task. This project focuses on providing a system that enables the users to utilize the service with ease with the flexibility to operators for monitoring all required activities. The system would use a database containing information on the bikes, drop-off locations, and the customers. It is built to be user-friendly and flexible along with maximizing the efficiency for the operators and managers while easing customer stress.
 
 
 
