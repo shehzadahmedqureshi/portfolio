@@ -14,7 +14,6 @@ Note: Data used in these projects is for demonstration purposes only.
 
 _Tools Used in Data Science Projects: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy
 
-- 
 ## Web Projects:
 - [Nicholas Jose Website](http://www.nicholasjose.com.au/): The goal was to develop a website in WordPress but the content should load without page refresh using AJAX.
 Tools: HTML, CSS, jQuery, Ajax, PHP, WordPress
