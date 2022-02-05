@@ -1,6 +1,6 @@
 # Portfolio
 
-Note: Data used in these projects is for demonstration purposes only.
+**Note:** Data used in these projects is for demonstration purposes only.
 
 ## Web Projects:
 
