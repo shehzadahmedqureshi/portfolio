@@ -5,7 +5,8 @@
 ## Web Projects:
 
 i have completed more than 100 web pojects. 10 out of those are mentioned here.
-Note: Some of these web projects are linking to archive version of the website (My Work) because client recently changed the website and that recent work in not mine.
+
+**Note:** Some of these web projects are linking to archive version of the website (My Work) because client recently changed the website and that recent work in not mine.
 
 1. [Mighty Host Website](http://mightyhost.com.au/): I did PSD to HTML and CSS.
 2. [Fish Recruiting Website](http://fishrecruiting.com.au/): I did PSD to HTML CSS and applied Jquery to the design.
