@@ -8,12 +8,12 @@ i have completed more than 100 web pojects. 10 out of those are mentioned here.
 
 **Note:** Some of these web projects are linking to archive version of the website (My Work) because client recently changed the website and that recent work in not mine.
 
-1. [Mighty Host Website](http://mightyhost.com.au/): I did PSD to HTML and CSS.
-2. [Fish Recruiting Website](http://fishrecruiting.com.au/): I did PSD to HTML CSS and applied Jquery to the design.
-3. [Café Galilee Website](http://cafe-galilee.com/): I did PSD to HTML and CSS in this project.
+1. [Mighty Host Website](http://mightyhost.com.au/): I converted all provided PSD files to HTML and CSS web pages. Then i made the website live on Client's host.
+2. [Fish Recruiting Website](http://fishrecruiting.com.au/): I converted all provided PSD files to HTML and CSS web pages. Also, applied Jquery for different animation work on the website. Then i made the website live on Client's host.
+3. [Café Galilee Website](http://cafe-galilee.com/): I converted all provided PSD files to HTML and CSS web pages. Then i made the website live on Client's host.
 4. [Nicholas Jose Website](http://www.nicholasjose.com.au/): The goal was to develop a website in WordPress but the content should load without page refresh using AJAX.
 Tools: HTML, CSS, jQuery, Ajax, PHP, WordPress
-5. [4 Life](https://web.archive.org/web/20120222005048/http://4lifetraining.com.au/): I did PSD to HTML and CSS and then developed the dynamic website using Adobe Business Catalyst
+5. [4 Life](https://web.archive.org/web/20120222005048/http://4lifetraining.com.au/):I converted all provided PSD files to HTML and CSS web pages and then developed the dynamic website using Adobe Business Catalyst.
 - [Bike Sharing Website] : Road congestion, traffic, air pollution, increased greenhouse gas emissions combined with the cost of maintenance of cars has provoked the need for alternative modes of transportation, one of them being bikes. Best utilized in bike-sharing schemes, these are environmentally inclined, cost-optimized mode of transportation which combines active transportation with public transit. In bike-sharing schemes, owning a bike is not necessary as these schemes allow the users to rent, pay for their used duration and return the bike to the nearest collection center after the completion of their trip. The basis of this bike-sharing schemes are to provide tourists with a resident-like experience and students quick access to schools and vital resources of proximity to them, whilst providing an efficient alternative mode of transportation for inhabitants. Implementing these schemes and keeping a tab of all the transactions and activities such as point of order and returns, missing bikes, bike repairs, etc. is an arduous task. This project focuses on providing a system that enables the users to utilize the service with ease with the flexibility to operators for monitoring all required activities. The system would use a database containing information on the bikes, drop-off locations, and the customers. It is built to be user-friendly and flexible along with maximizing the efficiency for the operators and managers while easing customer stress.
 
 ## Data Science Projects:
