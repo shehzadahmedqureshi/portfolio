@@ -1,7 +1,5 @@
 # Portfolio
 
-**Note:** Data used in these projects is for demonstration purposes only.
-
 ## Web Projects:
 
 I have completed more than 100 web pojects. Some of those are mentioned here.
@@ -17,6 +15,9 @@ Tools: HTML, CSS, jQuery, Ajax, PHP, WordPress
 8. [Bailey Ladders](https://web.archive.org/web/20120229233712/https://www.baileyladders.com.au/): I converted all provided PSD files to HTML and CSS web pages and then developed the dynamic website using Adobe Business Catalyst.
 
 ## Data Science Projects:
+
+**Note:** Data used in these projects is for demonstration purposes only.
+
 - [Explainable Hostel Recommender System](https://github.com/shehzadahmedqureshi/portfolio/blob/master/Explainable_Hostel_Recommender_System.ipynb): This Recommender System recommends similar hostels with an explanation and as a result, such recommendations become more effective and more persuasive.
 - [Content Based Recommender System For Hostels in Ireland (Based on Hostel's Attributes)](https://github.com/shehzadahmedqureshi/portfolio/blob/master/Hostel_Recommender_System.ipynb): I created a content based recommender system for hostels in Ireland that recommends similar hostels by matching the contextual features and multi-rating data of other hostels with the anchor hostel.
 - [Content Based Recommender System For Hostels in Ireland (Based on Hostel's Name)](https://github.com/shehzadahmedqureshi/portfolio/blob/master/hostel_recommender_system_based_on_hostel_name.ipynb): This Recommender System Uses the name of a hostel to recommend similar hostels.
