@@ -25,6 +25,7 @@ Tools: HTML, CSS, jQuery, Ajax, PHP, WordPress
 10. [Bailey Ladders](https://web.archive.org/web/20120229233712/https://www.baileyladders.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Adobe Business Catalyst.
 11. [CDW Studios](https://web.archive.org/web/20150106012017/https://cdwstudios.com/) : I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Joomla CMS.
 12. [MRCSA](https://web.archive.org/web/20150227052234/http://mrcsa.com.au/) : I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Joomla CMS.
+13. [Rezz](https://web.archive.org/web/20140315203850/https://www.rezz.com.au/) : I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Joomla CMS.
 
 ## Data Science Projects:
 
