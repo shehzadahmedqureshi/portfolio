@@ -4,7 +4,7 @@
 
 ## Web Projects:
 
-I have completed more than 100 web pojects. 10 out of those are mentioned here.
+I have completed more than 100 web pojects. Some of those are mentioned here.
 
 **Note:** Some of these web projects are linking to archive version of the website (My Work) because client recently changed the website and that recent work in not mine.
 
