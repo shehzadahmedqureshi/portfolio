@@ -19,10 +19,10 @@ I have developed more than 100 web development pojects including both front-end 
 5. [Nicholas Jose Website](http://www.nicholasjose.com.au/): The goal was to develop a website in WordPress but the content should load without page refresh using AJAX. I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Wordpress CMS.
 Tools: HTML, CSS, jQuery, Ajax, PHP, WordPress
 6. [Steed Form](https://web.archive.org/web/20141218093624/http://steedform.com/) : I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Wordpress CMS.
-5. [BXP](https://web.archive.org/web/20170219165651/http://www.bxpinternational.com.au/) : I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Wordpress CMS. The main goal in this project was to use Jquery plugins and PHP image libraries so that users can create their own personalised kits using interface.
-6. [4 Life](https://web.archive.org/web/20120222005048/http://4lifetraining.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Adobe Business Catalyst.
-7. [Bailey Ladders](https://web.archive.org/web/20120229233712/https://www.baileyladders.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Adobe Business Catalyst.
-8. [CDW Studios](https://web.archive.org/web/20150106012017/https://cdwstudios.com/) : I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Joomla CMS.
+7. [BXP](https://web.archive.org/web/20170219165651/http://www.bxpinternational.com.au/) : I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Wordpress CMS. The main goal in this project was to use Jquery plugins and PHP image libraries so that users can create their own personalised kits using interface.
+8. [4 Life](https://web.archive.org/web/20120222005048/http://4lifetraining.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Adobe Business Catalyst.
+9. [Bailey Ladders](https://web.archive.org/web/20120229233712/https://www.baileyladders.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Adobe Business Catalyst.
+10. [CDW Studios](https://web.archive.org/web/20150106012017/https://cdwstudios.com/) : I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Joomla CMS.
 
 ## Data Science Projects:
 
