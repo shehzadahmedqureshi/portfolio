@@ -17,8 +17,9 @@ I have completed more than 100 web development pojects including both front-end 
 3. [Café Galilee Website](http://cafe-galilee.com/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Then i made the website live on Client's host.
 4. [Nicholas Jose Website](http://www.nicholasjose.com.au/): The goal was to develop a website in WordPress but the content should load without page refresh using AJAX. I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Wordpress CMS.
 Tools: HTML, CSS, jQuery, Ajax, PHP, WordPress
-7. [4 Life](https://web.archive.org/web/20120222005048/http://4lifetraining.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Adobe Business Catalyst.
-8. [Bailey Ladders](https://web.archive.org/web/20120229233712/https://www.baileyladders.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Adobe Business Catalyst.
+5. [BXP](https://web.archive.org/web/20170219165651/http://www.bxpinternational.com.au/) : I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Wordpress CMS. The main goal in this project was to use Jquery and PHP image libraries so that users can create their own personalised kits using interface.
+6. [4 Life](https://web.archive.org/web/20120222005048/http://4lifetraining.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Adobe Business Catalyst.
+7. [Bailey Ladders](https://web.archive.org/web/20120229233712/https://www.baileyladders.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Adobe Business Catalyst.
 
 ## Data Science Projects:
 
