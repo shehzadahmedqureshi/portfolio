@@ -15,7 +15,7 @@ I have developed more than 100 web development pojects including both front-end 
 1. [Mighty Host Website](http://mightyhost.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Then i made the website live on Client's host.
 2. [Fish Recruiting Website](http://fishrecruiting.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Also, applied Jquery for different animation work on the website. Then i made the website live on Client's host.
 3. [Café Galilee Website](http://cafe-galilee.com/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Then i made the website live on Client's host.
-4. [Canoe It](https://web.archive.org/web/20140518143442/http://www.canoeit.com.au/) : I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Then i made the website live on Client's host.
+4. [Canoe It](https://web.archive.org/web/20140518143442/http://www.canoeit.com.au/) : I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Wordpress CMS.
 5. [Nicholas Jose Website](http://www.nicholasjose.com.au/): The goal was to develop a website in WordPress but the content should load without page refresh using AJAX. I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Wordpress CMS.
 Tools: HTML, CSS, jQuery, Ajax, PHP, WordPress
 6. [Steed Form](https://web.archive.org/web/20141218093624/http://steedform.com/) : I converted all provided PSD files to responsive HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Wordpress CMS.
