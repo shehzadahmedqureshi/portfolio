@@ -1,6 +1,12 @@
 # Portfolio
 
-## Web Projects:
+Section Links :
+
+1. [Web Development Projects](https://github.com/shehzadahmedqureshi/portfolio/)
+2. [Data Science Projects](https://github.com/shehzadahmedqureshi/portfolio/)
+3. [Search Engine Optimization Projects](https://github.com/shehzadahmedqureshi/portfolio/)
+
+## Web Development Projects:
 
 I have completed more than 100 web pojects. Some of those are mentioned here.
 
@@ -33,6 +39,8 @@ Tools: HTML, CSS, jQuery, Ajax, PHP, WordPress
 
 _Tools Used in Data Science Projects: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy
 
+## Search Engine Optimization Projects:
 
-
-
+1. [Words I Seek](https://www.wordsiseek.com/) : I performed on page and off page seo for this project and ranked the website on several keywords.
+2. [Tools I Seek](https://www.toolsiseek.com/) : I performed on page and off page seo for this project and ranked the website on several keywords.
+3. [Muxic Beats](https://www.muxicbeats.com/) : I performed on page and off page seo for this project and ranked the website on several keywords.
