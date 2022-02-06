@@ -12,13 +12,13 @@ I have completed more than 100 web development pojects including both front-end 
 
 **Note:** Some of these web projects are linking to archive version of the website (My Work) because client recently changed the website and that recent work in not mine.
 
-1. [Mighty Host Website](http://mightyhost.com.au/): I converted all provided PSD files to HTML and CSS web pages. Then i made the website live on Client's host.
-2. [Fish Recruiting Website](http://fishrecruiting.com.au/): I converted all provided PSD files to HTML and CSS web pages. Also, applied Jquery for different animation work on the website. Then i made the website live on Client's host.
-3. [Café Galilee Website](http://cafe-galilee.com/): I converted all provided PSD files to HTML and CSS web pages. Then i made the website live on Client's host.
+1. [Mighty Host Website](http://mightyhost.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Then i made the website live on Client's host.
+2. [Fish Recruiting Website](http://fishrecruiting.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Also, applied Jquery for different animation work on the website. Then i made the website live on Client's host.
+3. [Café Galilee Website](http://cafe-galilee.com/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Then i made the website live on Client's host.
 4. [Nicholas Jose Website](http://www.nicholasjose.com.au/): The goal was to develop a website in WordPress but the content should load without page refresh using AJAX.
 Tools: HTML, CSS, jQuery, Ajax, PHP, WordPress
-7. [4 Life](https://web.archive.org/web/20120222005048/http://4lifetraining.com.au/): I converted all provided PSD files to HTML and CSS web pages and then developed the dynamic website using Adobe Business Catalyst.
-8. [Bailey Ladders](https://web.archive.org/web/20120229233712/https://www.baileyladders.com.au/): I converted all provided PSD files to HTML and CSS web pages and then developed the dynamic website using Adobe Business Catalyst.
+7. [4 Life](https://web.archive.org/web/20120222005048/http://4lifetraining.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Adobe Business Catalyst.
+8. [Bailey Ladders](https://web.archive.org/web/20120229233712/https://www.baileyladders.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages and then developed the dynamic website using Adobe Business Catalyst.
 
 ## Data Science Projects:
 
