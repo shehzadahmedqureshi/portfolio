@@ -3,7 +3,7 @@
 Section Links :
 
 1. [Web Development Projects](https://github.com/shehzadahmedqureshi/portfolio/blob/master/README.md#web-development-projects)
-2. [Data Science Projects](https://github.com/shehzadahmedqureshi/portfolio/)
+2. [Data Science Projects](https://github.com/shehzadahmedqureshi/portfolio/blob/master/README.md#data-science-projects)
 3. [Search Engine Optimization Projects](https://github.com/shehzadahmedqureshi/portfolio/)
 
 ## Web Development Projects:
