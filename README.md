@@ -49,6 +49,8 @@ _Tools Used in Data Science Projects: scikit-learn, Pandas, Seaborn, Matplotlib,
 
 ## Search Engine Optimization Projects:
 
+**Note:** Keywords might not be ranking now because i did not work on the projects afterwards but if you use ranking history tool like Ahrefs, you can see ranked keywords in past.
+
 1. [Words I Seek](https://www.wordsiseek.com/) : I performed on page and off page seo for this project and ranked the website on several keywords.
 2. [Tools I Seek](https://www.toolsiseek.com/) : I performed on page and off page seo for this project and ranked the website on several keywords.
 3. [Muxic Beats](https://www.muxicbeats.com/) : I performed on page and off page seo for this project and ranked the website on several keywords.
