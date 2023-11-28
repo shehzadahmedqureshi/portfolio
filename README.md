@@ -11,8 +11,6 @@ I have developed more than 100 web development projects including both front-end
 
 **Note:** Some of these web projects are linking to an archive version of the website (My Work) because the client recently changed the website and that recent work is not mine.
 
-## Professional Project Portfolio
-
 1. [Mighty Host Website](http://mightyhost.com.au/): Converted all provided PSD files to HTML and CSS, creating cross-browser compatible web pages. Deployed the website on the client's host.
 
 2. [Fish Recruiting Website](http://fishrecruiting.com.au/): Converted PSD files to HTML and CSS for cross-browser compatible web pages. Applied JQuery for animations and deployed the website on the client's host.
