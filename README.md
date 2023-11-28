@@ -29,9 +29,7 @@ I have developed more than 100 web development projects including both front-end
    - [Canoe-It](https://web.archive.org/web/20140518143442/http://www.canoeit.com.au/): Converted PSD files to HTML and CSS, creating cross-browser compatible web pages. Developed a dynamic website using WordPress CMS.
 
 6. **Nicholas Jose Website**
-   - [Nicholas Jose Website](http://www.nicholasjose.com.au/): Developed a WordPress website with AJAX content loading. Converted PSD files to HTML and CSS, ensuring cross-browser compatibility.
-
-**Tools Used:** HTML, CSS, jQuery, Ajax, PHP, WordPress
+   - [Nicholas Jose Website](http://www.nicholasjose.com.au/): Developed a WordPress website with AJAX content loading. Converted PSD files to HTML and CSS, ensuring cross-browser compatibility. Tools Used:HTML, CSS, jQuery, Ajax, PHP, WordPress
 
 7. **Steed Form**
    - [Steed Form](https://web.archive.org/web/20141218093624/http://steedform.com/): Converted PSD files to responsive HTML and CSS, ensuring cross-browser compatibility. Developed a dynamic website using WordPress CMS.
