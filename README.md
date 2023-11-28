@@ -47,7 +47,7 @@ I have developed more than 100 web projects including both front-end and back-en
 
 **Note:** Data used in these projects is for demonstration purposes only.
 
-1. [Explainable Hostel Recommender System](https://github.com/shehzadahmedqureshi/portfolio/blob/master/Explainable_Hostel_Recommender_System.ipynb): This Recommender System recommends similar hostels with an explanation and as a result, such recommendations become more effective and more persuasive.
+1. [Explainable Hostel Recommender System](https://github.com/shehzadahmedqureshi/portfolio/blob/master/Explainable_Hostel_Recommender_System.ipynb): This recommender system recommends similar hostels with an explanation and as a result, such recommendations become more effective and more persuasive.
 2. [Content Based Recommender System For Hostels in Ireland (Based on Hostel's Attributes)](https://github.com/shehzadahmedqureshi/portfolio/blob/master/Hostel_Recommender_System.ipynb): Created a content-based recommender system for hostels in Ireland that recommends similar hostels by matching the contextual features and multi-rating data of other hostels with the anchor hostel.
 3. [Content Based Recommender System For Hostels in Ireland (Based on Hostel's Name)](https://github.com/shehzadahmedqureshi/portfolio/blob/master/hostel_recommender_system_based_on_hostel_name.ipynb): This recommender system uses the name of a hostel to recommend similar hostels.
 4. [Kaggle's Titanic Competition](https://github.com/shehzadahmedqureshi/portfolio/blob/master/titanic/titanic.ipynb): The goal of this project was to predict what sorts of people were likely to survive in the disaster.
