@@ -11,7 +11,7 @@ I have developed more than 100 web development projects including both front-end
 
 **Note:** Some of these web projects are linking to an archive version of the website (My Work) because the client recently changed the website and that recent work is not mine.
 
-1. [Mighty Host Website](http://mightyhost.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Then I made the website live on the Client's host.
+1. [Mighty Host Website](http://mightyhost.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Then I deployed the website on the Client's host.
 2. [Fish Recruiting Website](http://fishrecruiting.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Also, applied JQuery for different animation work on the website. Then I made the website live on the Client's host.
 3. [Café Galilee Website](http://cafe-galilee.com/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Then I made the website live on the Client's host.
 4. [Cancer Book Website](https://web.archive.org/web/20130507031825/http://cancerwhatnow.com.au/): I converted all provided PSD files to HTML and CSS Cross Browser compatible web pages. Then I made the website live on the Client's host.
