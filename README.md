@@ -7,7 +7,7 @@ Section Links :
 
 ## Web Development Projects:
 
-I have developed more than 100 web development projects including both front-end and back-end projects. Some of those are mentioned here.
+I have developed more than 100 web projects including both front-end and back-end projects. Some of those are mentioned here.
 
 **Note:** Some of these web projects are linking to an archive version of the website (My Work) because the client recently changed the website and that recent work is not mine.
 
