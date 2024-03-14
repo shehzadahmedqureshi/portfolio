@@ -9,7 +9,7 @@ Section Links :
 
 I have developed more than 100 web projects including both front-end and back-end projects. Some of those are mentioned here.
 
-**Note:** Some of these web projects are linking to an archive version of the website (My Work) because the client recently changed the website and that recent work is not mine.
+**Note:** Some of these web projects are linking to an archive version of the website (My Work) because the client recently changed the website and that recent work is not mine. That's why archive version of the website will load slow.
 
 1. [Mighty Host Website](http://mightyhost.com.au/): Converted all provided PSD files to HTML and CSS, creating cross-browser compatible web pages. Deployed the website on the client's host.
 2. [Fish Recruiting Website](http://fishrecruiting.com.au/): Converted PSD files to HTML and CSS for cross-browser compatible web pages. Applied JQuery for animations and deployed the website on the client's host.
@@ -19,9 +19,9 @@ I have developed more than 100 web projects including both front-end and back-en
 6. [Nicholas Jose Website](http://www.nicholasjose.com.au/): Developed a WordPress website with AJAX content loading. Converted PSD files to HTML and CSS, ensuring cross-browser compatibility. Tools Used: HTML, CSS, jQuery, Ajax, PHP, WordPress
 7. [Steed Form](https://web.archive.org/web/20141218093624/http://steedform.com/): Converted PSD files to responsive HTML and CSS, ensuring cross-browser compatibility. Developed a dynamic website using WordPress CMS.
 8. [BXP](https://web.archive.org/web/20170219165651/http://www.bxpinternational.com.au/): Converted PSD files to HTML and CSS, ensuring cross-browser compatibility. Developed a dynamic website using WordPress CMS, incorporating JQuery plugins and PHP image libraries.
-9. [Robin Eley](https://web.archive.org/web/20140722064229/https://www.robineley.com/): Converted PSD files to HTML and CSS, ensuring cross-browser compatibility. Developed a dynamic website using WordPress CMS.
+9. [Robin Eley](https://www.robineley.com/): Converted PSD files to HTML and CSS, ensuring cross-browser compatibility. Developed a dynamic website using WordPress CMS.
 10. [4 Life](https://web.archive.org/web/20120222005048/http://4lifetraining.com.au/): Converted PSD files to HTML and CSS, ensuring cross-browser compatibility. Developed a dynamic website using Adobe Business Catalyst.
-11. [Bailey Ladders](https://web.archive.org/web/20120229233712/https://www.baileyladders.com.au/): Converted PSD files to HTML and CSS, ensuring cross-browser compatibility. Developed a dynamic website using Adobe Business Catalyst.
+11. [Bailey Ladders](https://www.baileyladders.com.au/): Converted PSD files to HTML and CSS, ensuring cross-browser compatibility. Developed a dynamic website using Adobe Business Catalyst.
 12. [CDW Studios](https://web.archive.org/web/20150106012017/https://cdwstudios.com/): Converted PSD files to HTML and CSS, ensuring cross-browser compatibility. Developed a dynamic website using Joomla CMS.
 13. [MRCSA](https://web.archive.org/web/20150227052234/http://mrcsa.com.au/): Converted PSD files to HTML and CSS, ensuring cross-browser compatibility. Developed a dynamic website using Joomla CMS.
 14. [Rezz](https://web.archive.org/web/20140315203850/https://www.rezz.com.au/): Converted PSD files to HTML and CSS, ensuring cross-browser compatibility. Developed a dynamic website using Joomla CMS.
